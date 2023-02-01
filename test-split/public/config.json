@@ -1,0 +1,22 @@
+{
+  "title": "test",
+  "favicon": "favicon.ico",
+  "theme": {
+    "antd": {
+      "primary-color": "#00AB5F",
+      "error-color": "#EE3F19",
+      "heading-color": "#313131",
+      "text-color": "#313131",
+      "border-color-base": "#989898",
+      "disabled-color": "#CBCBCB",
+      "border-radius-base": "3px"
+    },
+    "custom": {
+      "h-primary-active-color": "#005630",
+      "h-primary-active-bg": "#d9f2e7",
+      "h-meeting-breathing-light-color": "#d9f2e7",
+      "h-meeting-chat-border-color": "#99DDBF",
+      "h-meeting-notice-color": "#66cd9f"
+    }
+  }
+}
